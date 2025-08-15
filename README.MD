@@ -1,15 +1,3 @@
-<h3>👋 Hi, I’m Arshiya Moslehi</h3>
-<h3>👀 I’m interested in JavaScript</h3>
-<h3>🌱 I’m currently learning JavaScript</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aliicic&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<h2 align="center">🔨 Languages, Frameworks & Tools 🔨</h2>
-
-<br>
-
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -23,6 +11,12 @@
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /><br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" /><br>Webpack
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=es6" alt="ES6" width="65" height="65" /><br>ES6
     </td>
   </tr>
   <tr>
@@ -47,10 +41,4 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code
-    </td>
-  </tr>
-</table>
-
-<br><br>
-</div>
+      <img src="https://skillic
